@@ -216,3 +216,7 @@ span{
         font-size:15px;
     }
 }
+.error{
+    color: red;
+    font-style: italic;
+}
